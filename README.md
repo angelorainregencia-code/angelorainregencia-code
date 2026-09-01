@@ -1,10 +1,5 @@
-# Hi there, I'm Angelo Rain Regencia 
-
-**Founder & CEO at RA!N Systems & RA!N Studio** | **Full-Stack & Web3 Software Engineer** | **BSIT @ PUP**
-
-```text
-Currently working on : INIT.AI (Web3 Climate Intelligence & Soroban Spatial Attestation on Stellar)
-Currently learning   : Soroban Smart Contracts, Distributed Systems Architecture, & Spatial Data Engineering
-Goals               : Delivering scalable enterprise software & decentralized civic tech primitives
-Ask me about        : Java, Python, React, Tailwind CSS, SQL/PostGIS, Soroban/Stellar
-How to reach me     : angelorainregencia@gmail.com
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Founder+%26+CEO+%40+RA!N+Systems;Full-Stack+%26+Web3+Developer;Java+%7C+Python+%7C+React+%7C+SQL+%7C+Soroban;Building+Scalable+Software+%26+Cloud+Solutions" alt="Typing SVG" />
+  </a>
+</p>
