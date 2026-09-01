@@ -1,16 +1,35 @@
-<!-- HEADER WAVE BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,31,0&height=180&section=header&text=Angelo%20Rain%20Regencia&fontSize=32&fontColor=ffffff&animation=twinkling" width="100%" />
+<h1 align="center">Angelo Rain Regencia</h1>
+<p align="center">Full-Stack & Web3 Engineer · Founder @ RA!N Systems & RA!N Studio · BSIT @ PUP</p>
 
-<!-- DYNAMIC TYPING HEADER -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=Founder+%26+CEO+%40+RA!N+Systems+%26+RA!N+Studio;Full-Stack+%26+Web3+Software+Engineer+%7C+BSIT+%40+PUP;Building+INIT.AI+(Soroban+%7C+Stellar+%7C+Spatial+Data);Java+%7C+Python+%7C+React+%7C+Tailwind+%7C+SQL%2FPostGIS" alt="Typing SVG" />
-  </a>
+  <a href="mailto:angelorainregencia@gmail.com">Email</a> ·
+  <a href="https://github.com/angelorainregencia-code">GitHub</a>
 </p>
 
 ---
 
-### 🚀 About Me
+### About
 
-```text
-Full-Stack & Web3 Engineer | Enterprise Systems Architecture
+Building **INIT.AI** — Web3 climate intelligence and spatial attestation on Soroban/Stellar.
+
+- Currently learning: Soroban smart contracts, distributed systems, spatial data engineering
+- Stack: Java, Python, React, Tailwind CSS, SQL/PostGIS, Soroban/Stellar
+
+---
+
+### Stack
+
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Stellar](https://img.shields.io/badge/-Stellar-7D00FF?style=flat-square&logo=stellar&logoColor=white)
+
+---
+
+### Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=angelorainregencia-code&show_icons=true&theme=default&hide_border=true" />
+</p>
